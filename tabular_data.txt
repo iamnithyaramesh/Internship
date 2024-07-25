@@ -1,0 +1,19 @@
+import json
+import pandas as pd
+
+with open('json_analysis.json', 'r') as file:
+    data = json.load(file)
+
+
+df = pd.DataFrame(data)
+
+df.sort_values(by='Date')
+df.sort_values(by='Time')
+
+df.sort_values(by='SiteName')
+
+
+with pd.ExcelWriter('output.xlsx') as writer:
+    df.to_excel(writer, sheet_name='Sheet1', index=False)
+
+print('Data written successfully..')
