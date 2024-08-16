@@ -1,0 +1,301 @@
+k4mobility@vmhost-1:~/ops/scanvoe$ python3 table.py
+           Date      Time                DID                       DP                    SiteName                                           Event
+297  2024-08-05  03:30:26  ES1K43ACBAA002387                      KVH             A.R.A. LIBERTAD                      Dropped from 38.101.194.20
+81   2024-08-01  14:30:16  ES1K43ACBAA002387                      KVH             A.R.A. LIBERTAD  IP changed from 38.101.194.21 to 38.101.194.20
+200  2024-08-03  22:30:19  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.21 to 38.101.194.20
+86   2024-08-01  22:30:10  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.20 to 38.101.194.21
+79   2024-08-01  14:30:16  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.21 to 38.101.194.20
+63   2024-08-01  03:30:17  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.20 to 38.101.194.21
+31   2024-07-31  14:30:17  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.21 to 38.101.194.20
+20   2024-07-31  07:30:16  ES1K39AABAA001840         Crowley Shipping                     Admiral  IP changed from 38.101.194.20 to 38.101.194.21
+201  2024-08-03  22:30:19  ES1K37AABAA001554         Crowley Shipping                  Adventurer  IP changed from 38.101.194.21 to 38.101.194.20
+92   2024-08-02  03:30:18  ES1K3CAABAA002025                  Satlink             Albacora Cuatro                          Added to 164.52.154.20
+294  2024-08-05  03:30:26  ES1K36AABAA001414                  Satlink                Albacora Uno                          Added to 38.101.194.20
+124  2024-08-03  07:30:14  ES1K36AABAA001414                  Satlink                Albacora Uno                      Dropped from 38.101.194.20
+111  2024-08-03  03:30:10  ES1K36AABAA001414                  Satlink                Albacora Uno                          Added to 38.101.194.20
+84   2024-08-01  14:30:16  ES1K36AABAA001414                  Satlink                Albacora Uno                      Dropped from 38.101.194.20
+62   2024-08-01  03:30:17  ES1K36AABAA001414                  Satlink                Albacora Uno                          Added to 38.101.194.20
+25   2024-07-31  07:30:16  ES1K36AABAA001414          Clarus Networks                Albacora Uno                      Dropped from 38.101.194.20
+0    2024-07-31  05:19:53  ES1K36AABAA001414                  Satlink                Albacora Uno                          Added to 38.101.194.20
+9    2024-07-31  05:25:30  ES1K36AABAA001414                  Satlink                Albacora Uno                          Added to 38.101.194.20
+206  2024-08-03  22:30:19  ES1K42AABAA002195          Clarus Networks                     Andover                           Added to 188.65.37.66
+137  2024-08-03  14:32:35  ES1K42AABAA002195          Clarus Networks                     Andover                       Dropped from 188.65.37.66
+82   2024-08-01  14:30:16  ES1K39AABAA001810         Crowley Shipping                      Apollo  IP changed from 38.101.194.20 to 38.101.194.21
+252  2024-08-03  22:30:19  ES1K34AABAA001168          Clarus Networks              Argeo Searcher                           Added to 188.65.37.66
+183  2024-08-03  14:32:35  ES1K34AABAA001168          Clarus Networks              Argeo Searcher                       Dropped from 188.65.37.66
+36   2024-07-31  14:30:17  EF1K43ABCAA000323                      KVH                  Baldu Arna                          Added to 38.101.194.21
+77   2024-08-01  07:30:17  EF1K43ABCAA000323                      KVH                  Baldu Arna                      Dropped from 38.101.194.21
+26   2024-07-31  07:30:16  EF1K43ABCAA000323          Clarus Networks                  Baldu Arna                      Dropped from 38.101.194.21
+199  2024-08-03  14:32:35  ES1K42AABAA002251          Clarus Networks           Benbrack Windfarm                       Dropped from 188.65.37.66
+268  2024-08-03  22:30:19  ES1K42AABAA002251          Clarus Networks           Benbrack Windfarm                           Added to 188.65.37.66
+109  2024-08-02  22:30:11  ES1K33AABAA001089    Marine Data Solutions                   Blue Chip                      Dropped from 38.101.194.21
+113  2024-08-03  03:30:10  ES1K33AABAA001089    Marine Data Solutions                   Blue Chip                          Added to 38.101.194.21
+280  2024-08-04  14:30:18  ES1K43ACBAA002336                      KVH                   CORIO BAY                          Added to 38.101.194.20
+165  2024-08-03  14:32:35  ES1K38AABAA001736       Charity and Taylor              Centrica FCARS                       Dropped from 188.65.37.66
+234  2024-08-03  22:30:19  ES1K38AABAA001736       Charity and Taylor              Centrica FCARS                           Added to 188.65.37.66
+129  2024-08-03  14:32:35  ES1K36AABAA001475         Crowley Shipping            Coastal Reliance  IP changed from 38.101.194.20 to 38.101.194.21
+35   2024-07-31  14:30:17  ES1K36AABAA001475         Crowley Shipping            Coastal Reliance                          Added to 38.101.194.20
+66   2024-08-01  03:30:17  ES1K3CAABAA001998          Clarus Networks           Commbox Edge Demo                      Dropped from 164.52.154.20
+46   2024-07-31  22:30:16  ES1K3CAABAA001998                      KVH           Commbox Edge Demo                          Added to 164.52.154.20
+242  2024-08-03  22:30:19  ES1K2BAABAA000235                Sat Elite                    Crazy Me                           Added to 188.65.37.66
+173  2024-08-03  14:32:35  ES1K2BAABAA000235                Sat Elite                    Crazy Me                       Dropped from 188.65.37.66
+87   2024-08-01  22:30:10  ES1K37AABAA001501         Crowley Shipping                    Defender                          Added to 38.101.194.21
+224  2024-08-03  22:30:19  EF1K41ABBAA000215                      KVH               DemoFit000215                           Added to 188.65.37.66
+102  2024-08-02  14:30:32  EF1K41ABBAA000215                      KVH               DemoFit000215   IP changed from 38.101.194.22 to 188.65.37.66
+155  2024-08-03  14:32:35  EF1K41ABBAA000215                      KVH               DemoFit000215                       Dropped from 188.65.37.66
+95   2024-08-02  03:30:18  ES1K41AABAA002040                      KVH              Ena Wizard - 2                      Dropped from 38.101.194.20
+277  2024-08-04  07:30:10  ES1K35AABAA001320    Marine Data Solutions                    Evelyn P                       Dropped from 99.76.24.201
+284  2024-08-04  14:30:18  ES1K35AABAA001320    Marine Data Solutions                    Evelyn P                           Added to 99.76.24.201
+273  2024-08-04  07:30:10  ES1K33AABAA001096    Marine Data Solutions                 Far From It                           Added to 99.76.24.201
+125  2024-08-03  07:30:14  ES1K33AABAA001096    Marine Data Solutions                 Far From It                       Dropped from 99.76.24.201
+127  2024-08-03  14:32:35  ES1K42AABAA002205                      KVH                     Felicia                          Added to 38.101.194.20
+275  2024-08-04  07:30:10  ES1K42AABAA002205                      KVH                     Felicia                      Dropped from 38.101.194.20
+295  2024-08-05  03:30:26  ES1K42AABAA002205                      KVH                     Felicia                          Added to 38.101.194.21
+34   2024-07-31  14:30:17  ES1K25AAAAA000052  BlueTide Communications          GENESIS-Glory-ES52                          Added to 38.101.194.20
+265  2024-08-03  22:30:19  ES1K43ACBAA002287       Charity and Taylor              Glomar Vantage                           Added to 188.65.37.66
+196  2024-08-03  14:32:35  ES1K43ACBAA002287       Charity and Taylor              Glomar Vantage                       Dropped from 188.65.37.66
+139  2024-08-03  14:32:35  ES1K3BAABAA001938          Clarus Networks            Grampian Calgary                       Dropped from 188.65.37.66
+208  2024-08-03  22:30:19  ES1K3BAABAA001938          Clarus Networks            Grampian Calgary                           Added to 188.65.37.66
+140  2024-08-03  14:32:35  ES1K3BAABAA001949          Clarus Networks           Grampian Cavalier                       Dropped from 188.65.37.66
+209  2024-08-03  22:30:19  ES1K3BAABAA001949          Clarus Networks           Grampian Cavalier                           Added to 188.65.37.66
+210  2024-08-03  22:30:19  ES1K42AABAA002206          Clarus Networks            Grampian Citadel                           Added to 188.65.37.66
+141  2024-08-03  14:32:35  ES1K42AABAA002206          Clarus Networks            Grampian Citadel                       Dropped from 188.65.37.66
+142  2024-08-03  14:32:35  ES1K42AABAA002211          Clarus Networks          Grampian Commander                       Dropped from 188.65.37.66
+211  2024-08-03  22:30:19  ES1K42AABAA002211          Clarus Networks          Grampian Commander                           Added to 188.65.37.66
+143  2024-08-03  14:32:35  ES1K42AABAA002224          Clarus Networks         Grampian Confidence                       Dropped from 188.65.37.66
+212  2024-08-03  22:30:19  ES1K42AABAA002224          Clarus Networks         Grampian Confidence                           Added to 188.65.37.66
+213  2024-08-03  22:30:19  ES1K3BAABAA001933          Clarus Networks          Grampian Conqueror                           Added to 188.65.37.66
+144  2024-08-03  14:32:35  ES1K3BAABAA001933          Clarus Networks          Grampian Conqueror                       Dropped from 188.65.37.66
+145  2024-08-03  14:32:35  ES1K3BAABAA001964          Clarus Networks           Grampian Conquest                       Dropped from 188.65.37.66
+214  2024-08-03  22:30:19  ES1K3BAABAA001964          Clarus Networks           Grampian Conquest                           Added to 188.65.37.66
+215  2024-08-03  22:30:19  ES1K42AABAA002157          Clarus Networks          Grampian Contender                           Added to 188.65.37.66
+146  2024-08-03  14:32:35  ES1K42AABAA002157          Clarus Networks          Grampian Contender                       Dropped from 188.65.37.66
+216  2024-08-03  22:30:19  ES1K42AABAA002237          Clarus Networks         Grampian Corinthian                           Added to 188.65.37.66
+147  2024-08-03  14:32:35  ES1K42AABAA002237          Clarus Networks         Grampian Corinthian                       Dropped from 188.65.37.66
+217  2024-08-03  22:30:19  ES1K3BAABAA001923          Clarus Networks            Grampian Corsair                           Added to 188.65.37.66
+148  2024-08-03  14:32:35  ES1K3BAABAA001923          Clarus Networks            Grampian Corsair                       Dropped from 188.65.37.66
+149  2024-08-03  14:32:35  ES1K3BAABAA001972          Clarus Networks         Grampian Courageous                       Dropped from 188.65.37.66
+218  2024-08-03  22:30:19  ES1K3BAABAA001972          Clarus Networks         Grampian Courageous                           Added to 188.65.37.66
+150  2024-08-03  14:32:35  ES1K42AABAA002233          Clarus Networks                Grampian Dee                       Dropped from 188.65.37.66
+219  2024-08-03  22:30:19  ES1K42AABAA002233          Clarus Networks                Grampian Dee                           Added to 188.65.37.66
+152  2024-08-03  14:32:35  ES1K42AABAA002199          Clarus Networks           Grampian Defender                       Dropped from 188.65.37.66
+221  2024-08-03  22:30:19  ES1K42AABAA002199          Clarus Networks           Grampian Defender                           Added to 188.65.37.66
+222  2024-08-03  22:30:19  ES1K3BAABAA001924          Clarus Networks           Grampian Defiance                           Added to 188.65.37.66
+153  2024-08-03  14:32:35  ES1K3BAABAA001924          Clarus Networks           Grampian Defiance                       Dropped from 188.65.37.66
+223  2024-08-03  22:30:19  ES1K3BAABAA001939          Clarus Networks        Grampian Deliverance                           Added to 188.65.37.66
+154  2024-08-03  14:32:35  ES1K3BAABAA001939          Clarus Networks        Grampian Deliverance                       Dropped from 188.65.37.66
+156  2024-08-03  14:32:35  ES1K34AABAA001155          Clarus Networks            Grampian Derwent                       Dropped from 188.65.37.66
+225  2024-08-03  22:30:19  ES1K34AABAA001155          Clarus Networks            Grampian Derwent                           Added to 188.65.37.66
+226  2024-08-03  22:30:19  ES1K34AABAA001156          Clarus Networks            Grampian Derwent                           Added to 188.65.37.66
+157  2024-08-03  14:32:35  ES1K34AABAA001156          Clarus Networks            Grampian Derwent                       Dropped from 188.65.37.66
+227  2024-08-03  22:30:19  ES1K3BAABAA001968          Clarus Networks           Grampian Devotion                           Added to 188.65.37.66
+158  2024-08-03  14:32:35  ES1K3BAABAA001968          Clarus Networks           Grampian Devotion                       Dropped from 188.65.37.66
+228  2024-08-03  22:30:19  ES1K3BAABAA001967          Clarus Networks          Grampian Discovery                           Added to 188.65.37.66
+159  2024-08-03  14:32:35  ES1K3BAABAA001967          Clarus Networks          Grampian Discovery                       Dropped from 188.65.37.66
+229  2024-08-03  22:30:19  ES1K42AABAA002163          Clarus Networks                Grampian Don                           Added to 188.65.37.66
+160  2024-08-03  14:32:35  ES1K42AABAA002163          Clarus Networks                Grampian Don                       Dropped from 188.65.37.66
+161  2024-08-03  14:32:35  ES1K42AABAA002210          Clarus Networks            Grampian Dynamic                       Dropped from 188.65.37.66
+230  2024-08-03  22:30:19  ES1K42AABAA002210          Clarus Networks            Grampian Dynamic                           Added to 188.65.37.66
+231  2024-08-03  22:30:19  ES1K31AABAA001002          Clarus Networks            Grampian Dynasty                           Added to 188.65.37.66
+162  2024-08-03  14:32:35  ES1K31AABAA001002          Clarus Networks            Grampian Dynasty                       Dropped from 188.65.37.66
+232  2024-08-03  22:30:19  ES1K3BAABAA001937          Clarus Networks          Grampian Endurance                           Added to 188.65.37.66
+163  2024-08-03  14:32:35  ES1K3BAABAA001937          Clarus Networks          Grampian Endurance                       Dropped from 188.65.37.66
+233  2024-08-03  22:30:19  ES1K42AABAA002166          Clarus Networks           Grampian Explorer                           Added to 188.65.37.66
+164  2024-08-03  14:32:35  ES1K42AABAA002166          Clarus Networks           Grampian Explorer                       Dropped from 188.65.37.66
+166  2024-08-03  14:32:35  ES1K3BAABAA001922          Clarus Networks           Grampian Fortress                       Dropped from 188.65.37.66
+235  2024-08-03  22:30:19  ES1K3BAABAA001922          Clarus Networks           Grampian Fortress                           Added to 188.65.37.66
+236  2024-08-03  22:30:19  ES1K42AABAA002238          Clarus Networks            Grampian Freedom                           Added to 188.65.37.66
+167  2024-08-03  14:32:35  ES1K42AABAA002238          Clarus Networks            Grampian Freedom                       Dropped from 188.65.37.66
+177  2024-08-03  14:32:35  ES1K3BAABAA001969          Clarus Networks             Grampian Ranger                       Dropped from 188.65.37.66
+246  2024-08-03  22:30:19  ES1K3BAABAA001969          Clarus Networks             Grampian Ranger                           Added to 188.65.37.66
+254  2024-08-03  22:30:19  ES1K3BAABAA001956          Clarus Networks          Grampian Sovereign                           Added to 188.65.37.66
+185  2024-08-03  14:32:35  ES1K3BAABAA001956          Clarus Networks          Grampian Sovereign                       Dropped from 188.65.37.66
+256  2024-08-03  22:30:19  ES1K2BAAAAA000083          Clarus Networks           Grampian Talisker                           Added to 188.65.37.66
+187  2024-08-03  14:32:35  ES1K2BAAAAA000083          Clarus Networks           Grampian Talisker                       Dropped from 188.65.37.66
+188  2024-08-03  14:32:35  ES1K3BAABAA001921          Clarus Networks           Grampian Talisman                       Dropped from 188.65.37.66
+257  2024-08-03  22:30:19  ES1K3BAABAA001921          Clarus Networks           Grampian Talisman                           Added to 188.65.37.66
+260  2024-08-03  22:30:19  ES1K36AABAA001454          Clarus Networks               Grampian Tees                           Added to 188.65.37.66
+190  2024-08-03  14:32:35  ES1K36AABAA001440          Clarus Networks               Grampian Tees                       Dropped from 188.65.37.66
+191  2024-08-03  14:32:35  ES1K36AABAA001454          Clarus Networks               Grampian Tees                       Dropped from 188.65.37.66
+259  2024-08-03  22:30:19  ES1K36AABAA001440          Clarus Networks               Grampian Tees                           Added to 188.65.37.66
+83   2024-08-01  14:30:16  ES1K44ADBAA002590          Clarus Networks              Grampian Tweed                           Added to 188.65.37.66
+193  2024-08-03  14:32:35  ES1K44ADBAA002590          Clarus Networks              Grampian Tweed                       Dropped from 188.65.37.66
+262  2024-08-03  22:30:19  ES1K44ADBAA002590          Clarus Networks              Grampian Tweed                           Added to 188.65.37.66
+263  2024-08-03  22:30:19  ES1K34AABAA001148          Clarus Networks               Grampian Tyne                           Added to 188.65.37.66
+195  2024-08-03  14:32:35  ES1K34AABAA001149          Clarus Networks               Grampian Tyne                       Dropped from 188.65.37.66
+264  2024-08-03  22:30:19  ES1K34AABAA001149          Clarus Networks               Grampian Tyne                           Added to 188.65.37.66
+194  2024-08-03  14:32:35  ES1K34AABAA001148          Clarus Networks               Grampian Tyne                       Dropped from 188.65.37.66
+18   2024-07-31  07:30:16  ES1K3CAABAA002009                      KVH                    HR FARHA  IP changed from 38.101.194.21 to 38.101.194.20
+120  2024-08-03  07:30:14  ES1K3CAABAA002009                      KVH                    HR FARHA  IP changed from 38.101.194.20 to 38.101.194.21
+71   2024-08-01  07:30:17  ES1K34AABAA001184  BlueTide Communications       JACKSON-Breeze-ES1184  IP changed from 38.101.194.22 to 38.101.194.20
+67   2024-08-01  03:30:17  ES1K34AABAA001191          Clarus Networks    JACKSON-Lightning-ES1191                      Dropped from 38.101.194.20
+47   2024-07-31  22:30:16  ES1K34AABAA001191  BlueTide Communications    JACKSON-Lightning-ES1191                          Added to 38.101.194.20
+45   2024-07-31  14:30:17  ES1K34AABAA001191          Clarus Networks    JACKSON-Lightning-ES1191                      Dropped from 38.101.194.20
+72   2024-08-01  07:30:17  ES1K34AABAA001191  BlueTide Communications    JACKSON-Lightning-ES1191                          Added to 38.101.194.20
+276  2024-08-04  07:30:10  ES1K34AABAA001231  BlueTide Communications      JACKSON-Thunder-ES1231                      Dropped from 38.101.194.22
+286  2024-08-04  14:30:18  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                      Dropped from 38.101.194.21
+69   2024-08-01  03:30:17  EF1K43ABCAA000361          Clarus Networks       KSM-CaptainJack-EF361                      Dropped from 38.101.194.21
+97   2024-08-02  07:30:18  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                          Added to 38.101.194.21
+21   2024-07-31  07:30:16  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                          Added to 38.101.194.21
+51   2024-07-31  22:30:16  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361  IP changed from 38.101.194.22 to 38.101.194.21
+104  2024-08-02  14:30:32  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                      Dropped from 38.101.194.21
+271  2024-08-04  07:30:10  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                          Added to 38.101.194.21
+133  2024-08-03  14:32:35  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                      Dropped from 38.101.194.21
+40   2024-07-31  14:30:17  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361  IP changed from 38.101.194.21 to 38.101.194.22
+122  2024-08-03  07:30:14  EF1K43ABCAA000361  BlueTide Communications       KSM-CaptainJack-EF361                          Added to 38.101.194.21
+68   2024-08-01  03:30:17  ES1K36AABAA001418          Clarus Networks                 KsLab-Demo2                      Dropped from 38.101.194.21
+49   2024-07-31  22:30:16  ES1K36AABAA001418                      KVH                 KsLab-Demo2                          Added to 38.101.194.21
+24   2024-07-31  07:30:16  ES1K36AABAA001418          Clarus Networks                 KsLab-Demo2                      Dropped from 38.101.194.20
+94   2024-08-02  03:30:18  ES1K3CAABAA002017                      KVH                 KsLab-Demo3                          Added to 38.101.194.21
+91   2024-08-01  22:30:10  ES1K3CAABAA002017                      KVH                 KsLab-Demo3                      Dropped from 38.101.194.21
+1    2024-07-31  05:19:53  ES1K3CAABAA002017                      KVH                 KsLab-Demo3  IP changed from 38.101.194.22 to 38.101.194.21
+291  2024-08-04  22:30:12  ES1K3CAABAA002017                      KVH                 KsLab-Demo3                      Dropped from 38.101.194.21
+10   2024-07-31  05:25:30  ES1K3CAABAA002017                      KVH                 KsLab-Demo3  IP changed from 38.101.194.22 to 38.101.194.21
+238  2024-08-03  22:30:19  ES1K39AABAA001797    E Cubed Systems, S.L.                      Latiko                           Added to 188.65.37.66
+169  2024-08-03  14:32:35  ES1K39AABAA001797    E Cubed Systems, S.L.                      Latiko                       Dropped from 188.65.37.66
+283  2024-08-04  14:30:18  ES1K24AAAAA000035                Sat Elite                     Lazy Me  IP changed from 38.101.194.21 to 38.101.194.20
+28   2024-07-31  07:30:16  ES1K42AABAA002096          Clarus Networks                 Leo Sunrise                      Dropped from 38.101.194.22
+5    2024-07-31  05:19:53  ES1K42AABAA002096                      KVH                 Leo Sunrise                          Added to 38.101.194.22
+14   2024-07-31  05:25:30  ES1K42AABAA002096                      KVH                 Leo Sunrise                          Added to 38.101.194.22
+73   2024-08-01  07:30:17  ES1K42AABAA002096                      KVH                 Leo Sunrise                          Added to 38.101.194.20
+241  2024-08-03  22:30:19  ES1K37AABAA001600                Sat Elite                        Lush                           Added to 188.65.37.66
+172  2024-08-03  14:32:35  ES1K37AABAA001600                Sat Elite                        Lush                       Dropped from 188.65.37.66
+43   2024-07-31  14:30:17  ES1K28AAAAA000120                 YachtSat                 MY-LionessV                           Added to 188.65.37.66
+240  2024-08-03  22:30:19  ES1K28AAAAA000120                 YachtSat                 MY-LionessV                           Added to 188.65.37.66
+171  2024-08-03  14:32:35  ES1K28AAAAA000120                 YachtSat                 MY-LionessV                       Dropped from 188.65.37.66
+130  2024-08-03  14:32:35  ES1K2BAABAA000213                 YachtSat                     MY-Naia  IP changed from 38.101.194.20 to 38.101.194.22
+61   2024-08-01  03:30:17  ES1K2BAABAA000213                 YachtSat                     MY-Naia  IP changed from 38.101.194.21 to 38.101.194.20
+287  2024-08-04  22:30:12  ES1K2BAACAA000089                 YachtSat                    MY-Netto  IP changed from 38.101.194.21 to 38.101.194.20
+247  2024-08-03  22:30:19  ES1K2BAABAA000214                 YachtSat                      MY-Rio                           Added to 188.65.37.66
+178  2024-08-03  14:32:35  ES1K2BAABAA000214                 YachtSat                      MY-Rio                       Dropped from 188.65.37.66
+179  2024-08-03  14:32:35  ES1K24AAAAA000028                      KVH                     MY-Roma                       Dropped from 188.65.37.66
+248  2024-08-03  22:30:19  ES1K24AAAAA000028                      KVH                     MY-Roma                           Added to 188.65.37.66
+105  2024-08-02  14:30:32  ES1K24AAAAA000034                 YachtSat                  MY-Tayrona                      Dropped from 38.101.194.21
+100  2024-08-02  14:30:32  ES1K2BAABAA000200                      KVH                  MY-Warbird  IP changed from 38.101.194.20 to 38.101.194.21
+48   2024-07-31  22:30:16  ES1K2BAABAA000200                      KVH                  MY-Warbird  IP changed from 38.101.194.21 to 38.101.194.20
+126  2024-08-03  07:30:14  ES1K39AABAA001764                 YachtSat                     MY-Zuma                       Dropped from 99.76.24.201
+290  2024-08-04  22:30:12  ES1K39AABAA001764                 YachtSat                     MY-Zuma                           Added to 99.76.24.201
+131  2024-08-03  14:32:35  ES1K39AABAA001764                 YachtSat                     MY-Zuma                           Added to 99.76.24.201
+278  2024-08-04  07:30:10  ES1K39AABAA001764                 YachtSat                     MY-Zuma                       Dropped from 99.76.24.201
+282  2024-08-04  14:30:18  ES1K41AABAA002050               Radical IT              Miss Christine  IP changed from 38.101.194.22 to 38.101.194.20
+170  2024-08-03  14:32:35  ES1K32AABAA001022    Marine Data Solutions                   My Legacy                       Dropped from 188.65.37.66
+239  2024-08-03  22:30:19  ES1K32AABAA001022    Marine Data Solutions                   My Legacy                           Added to 188.65.37.66
+30   2024-07-31  07:30:16  ES1K42AABAA002197          Clarus Networks                ODE Tolmount                       Dropped from 188.65.37.66
+272  2024-08-04  07:30:10  SK1K2BAABAA001055  BlueTide Communications       ODYSSEA-Defender-EA21  IP changed from 38.101.194.20 to 38.101.194.22
+19   2024-07-31  07:30:16  SK1K2BAABAA001055  BlueTide Communications       ODYSSEA-Defender-EA21  IP changed from 38.101.194.21 to 38.101.194.20
+96   2024-08-02  07:30:18  SK1K2BAABAA001055  BlueTide Communications       ODYSSEA-Defender-EA21  IP changed from 38.101.194.20 to 38.101.194.21
+119  2024-08-03  07:30:14  SK1K2BAABAA001055  BlueTide Communications       ODYSSEA-Defender-EA21  IP changed from 38.101.194.21 to 38.101.194.20
+50   2024-07-31  22:30:16  SK1K2AACAAA001035  BlueTide Communications         ODYSSEA-Knight-EA31  IP changed from 38.101.194.22 to 38.101.194.21
+114  2024-08-03  03:30:10  SK1K2AACAAA001035  BlueTide Communications         ODYSSEA-Knight-EA31  IP changed from 38.101.194.22 to 38.101.194.21
+101  2024-08-02  14:30:32  SK1K2AACAAA001035  BlueTide Communications         ODYSSEA-Knight-EA31  IP changed from 38.101.194.21 to 38.101.194.22
+32   2024-07-31  14:30:17  SK1K31AABAA002012  BlueTide Communications         ODYSSEA-Leader-EA46                          Added to 38.101.194.20
+12   2024-07-31  05:25:30  ES1K42AABAA002221                      KVH                   Osaka Bay  IP changed from 38.101.194.21 to 38.101.194.22
+3    2024-07-31  05:19:53  ES1K42AABAA002221                      KVH                   Osaka Bay  IP changed from 38.101.194.21 to 38.101.194.22
+117  2024-08-03  07:30:14  ES1K43ACBAA002372                      KVH                  Oyster Bay  IP changed from 38.101.194.21 to 38.101.194.20
+202  2024-08-03  22:30:19  ES1K43ACBAA002372                      KVH                  Oyster Bay  IP changed from 38.101.194.20 to 38.101.194.21
+289  2024-08-04  22:30:12  ES1K43ACBAA002372                      KVH                  Oyster Bay  IP changed from 38.101.194.20 to 38.101.194.21
+112  2024-08-03  03:30:10  ES1K43ACBAA002372                      KVH                  Oyster Bay  IP changed from 38.101.194.20 to 38.101.194.21
+269  2024-08-04  03:30:16  ES1K43ACBAA002372                      KVH                  Oyster Bay  IP changed from 38.101.194.21 to 38.101.194.20
+29   2024-07-31  07:30:16  ES1K37AABAA001589          Clarus Networks                 Path backup                       Dropped from 188.65.37.66
+116  2024-08-03  03:30:10  EF1K39AABAA000116                  Satlink               Patricia Lynn                      Dropped from 38.101.194.20
+128  2024-08-03  14:32:35  EF1K39AABAA000116                  Satlink               Patricia Lynn                          Added to 38.101.194.21
+78   2024-08-01  14:30:16  ES1K43ACBAA002375                      KVH                 Pitt Island  IP changed from 164.52.154.20 to 164.52.154.21
+7    2024-07-31  05:19:53  ES1K43ACBAA002375          Clarus Networks                 Pitt Island                      Dropped from 164.52.154.21
+16   2024-07-31  05:25:30  ES1K43ACBAA002375          Clarus Networks                 Pitt Island                      Dropped from 164.52.154.21
+58   2024-08-01  03:30:17  ES1K43ACBAA002375                      KVH                 Pitt Island                          Added to 164.52.154.20
+181  2024-08-03  14:32:35  ES1K42AABAA002245          Clarus Networks                 Project RWE                       Dropped from 188.65.37.66
+250  2024-08-03  22:30:19  ES1K42AABAA002245          Clarus Networks                 Project RWE                           Added to 188.65.37.66
+134  2024-08-03  14:32:35  ES1K42AABAA002138          Clarus Networks             Putford Achates                       Dropped from 188.65.37.66
+203  2024-08-03  22:30:19  ES1K42AABAA002138          Clarus Networks             Putford Achates                           Added to 188.65.37.66
+135  2024-08-03  14:32:35  ES1K42AABAA002168          Clarus Networks            Putford Achiever                       Dropped from 188.65.37.66
+204  2024-08-03  22:30:19  ES1K42AABAA002168          Clarus Networks            Putford Achiever                           Added to 188.65.37.66
+205  2024-08-03  22:30:19  ES1K34AABAA001146          Clarus Networks                Putford Ajax                           Added to 188.65.37.66
+136  2024-08-03  14:32:35  ES1K34AABAA001146          Clarus Networks                Putford Ajax                       Dropped from 188.65.37.66
+138  2024-08-03  14:32:35  ES1K3BAABAA001940          Clarus Networks               Putford Aries                       Dropped from 188.65.37.66
+207  2024-08-03  22:30:19  ES1K3BAABAA001940          Clarus Networks               Putford Aries                           Added to 188.65.37.66
+151  2024-08-03  14:32:35  ES1K42AABAA002146          Clarus Networks            Putford Defender                       Dropped from 188.65.37.66
+220  2024-08-03  22:30:19  ES1K42AABAA002146          Clarus Networks            Putford Defender                           Added to 188.65.37.66
+237  2024-08-03  22:30:19  ES1K42AABAA002143          Clarus Networks              Putford Jaguar                           Added to 188.65.37.66
+168  2024-08-03  14:32:35  ES1K42AABAA002143          Clarus Networks              Putford Jaguar                       Dropped from 188.65.37.66
+243  2024-08-03  22:30:19  ES1K42AABAA002161          Clarus Networks             Putford Phoenix                           Added to 188.65.37.66
+174  2024-08-03  14:32:35  ES1K42AABAA002161          Clarus Networks             Putford Phoenix                       Dropped from 188.65.37.66
+244  2024-08-03  22:30:19  ES1K42AABAA002140          Clarus Networks               Putford Pride                           Added to 188.65.37.66
+175  2024-08-03  14:32:35  ES1K42AABAA002140          Clarus Networks               Putford Pride                       Dropped from 188.65.37.66
+176  2024-08-03  14:32:35  ES1K42AABAA002156          Clarus Networks           Putford Protector                       Dropped from 188.65.37.66
+245  2024-08-03  22:30:19  ES1K42AABAA002156          Clarus Networks           Putford Protector                           Added to 188.65.37.66
+182  2024-08-03  14:32:35  ES1K42AABAA002155          Clarus Networks             Putford Saviour                       Dropped from 188.65.37.66
+251  2024-08-03  22:30:19  ES1K42AABAA002155          Clarus Networks             Putford Saviour                           Added to 188.65.37.66
+261  2024-08-03  22:30:19  ES1K42AABAA002144          Clarus Networks          Putford Terminator                           Added to 188.65.37.66
+192  2024-08-03  14:32:35  ES1K42AABAA002144          Clarus Networks          Putford Terminator                       Dropped from 188.65.37.66
+266  2024-08-03  22:30:19  ES1K42AABAA002132          Clarus Networks              Putford Viking                           Added to 188.65.37.66
+197  2024-08-03  14:32:35  ES1K42AABAA002132          Clarus Networks              Putford Viking                       Dropped from 188.65.37.66
+267  2024-08-03  22:30:19  ES1K42AABAA002135          Clarus Networks             Putford Voyager                           Added to 188.65.37.66
+198  2024-08-03  14:32:35  ES1K42AABAA002135          Clarus Networks             Putford Voyager                       Dropped from 188.65.37.66
+296  2024-08-05  03:30:26  ES1K36AABAA001459         Crowley Shipping                      Regula  IP changed from 38.101.194.20 to 38.101.194.21
+75   2024-08-01  07:30:17  ES1K32AABAA001037               Radical IT                     Rochade  IP changed from 38.101.194.20 to 38.101.194.22
+249  2024-08-03  22:30:19  ES1K37AABAA001614    Marine Data Solutions                  Rosehearty                           Added to 188.65.37.66
+180  2024-08-03  14:32:35  ES1K37AABAA001614    Marine Data Solutions                  Rosehearty                       Dropped from 188.65.37.66
+42   2024-07-31  14:30:17  ES1K37AABAA001572     Elite Communications   SD006 WFO EI259C Starlink                          Added to 38.101.194.22
+88   2024-08-01  22:30:10  ES1K2BAAAAA000164  BlueTide Communications     SEABULK-Galveston-ES164                          Added to 38.101.194.21
+115  2024-08-03  03:30:10  ES1K34AABAA001179  BlueTide Communications     SEABULK-GreenBay-ES1179                          Added to 38.101.194.21
+274  2024-08-04  07:30:10  ES1K28AAAAA000112  BlueTide Communications         SEABULK-Mayan-ES112                      Dropped from 164.52.154.20
+279  2024-08-04  14:30:18  ES1K28AAAAA000112  BlueTide Communications         SEABULK-Mayan-ES112                          Added to 164.52.154.20
+85   2024-08-01  22:30:10  ES1K28AAAAA000112  BlueTide Communications         SEABULK-Mayan-ES112                          Added to 164.52.154.20
+39   2024-07-31  14:30:17  ES1K28AAAAA000077  BlueTide Communications          SEABULK-Pride-ES77                          Added to 38.101.194.21
+93   2024-08-02  03:30:18  ES1K2BAAAAA000165  BlueTide Communications       SEABULK-Thunder-ES165  IP changed from 38.101.194.22 to 38.101.194.20
+11   2024-07-31  05:25:30  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+23   2024-07-31  07:30:16  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+22   2024-07-31  07:30:16  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+74   2024-08-01  07:30:17  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+64   2024-08-01  03:30:17  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+4    2024-07-31  05:19:53  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+2    2024-07-31  05:19:53  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+52   2024-07-31  22:30:16  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+13   2024-07-31  05:25:30  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+41   2024-07-31  14:30:17  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+38   2024-07-31  14:30:17  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.22 to 38.101.194.21
+54   2024-07-31  22:30:16  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+65   2024-08-01  03:30:17  ES1K2AAAAAA000149  BlueTide Communications  SEABULK-WestVirginia-ES149  IP changed from 38.101.194.21 to 38.101.194.22
+90   2024-08-01  22:30:10  EF1K3AABBAA000194  BlueTide Communications          SERPORT-EL84-EF194                      Dropped from 38.101.194.20
+80   2024-08-01  14:30:16  EF1K3AABBAA000194  BlueTide Communications          SERPORT-EL84-EF194                          Added to 38.101.194.20
+56   2024-07-31  22:30:16  EF1K3AABBAA000194          Clarus Networks          SERPORT-EL84-EF194                      Dropped from 38.101.194.21
+37   2024-07-31  14:30:17  EF1K3AABBAA000194  BlueTide Communications          SERPORT-EL84-EF194                          Added to 38.101.194.21
+132  2024-08-03  14:32:35  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                      Dropped from 38.101.194.21
+70   2024-08-01  07:30:17  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                          Added to 38.101.194.20
+33   2024-07-31  14:30:17  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                          Added to 38.101.194.20
+121  2024-08-03  07:30:14  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                          Added to 38.101.194.21
+99   2024-08-02  14:30:32  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                          Added to 38.101.194.21
+55   2024-07-31  22:30:16  EF1K3AABBAA000176          Clarus Networks     SERPORT-Esparanza-EF176                      Dropped from 38.101.194.20
+89   2024-08-01  22:30:10  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                      Dropped from 38.101.194.20
+110  2024-08-02  22:30:11  EF1K3AABBAA000176  BlueTide Communications     SERPORT-Esparanza-EF176                      Dropped from 38.101.194.21
+106  2024-08-02  14:30:32  EF1K42ABBAA000258                      KVH           SLS Demo training                      Dropped from 38.101.194.21
+98   2024-08-02  14:30:32  ES1K38AABAA001748                      KVH                  STS.BOFFA2                          Added to 38.101.194.20
+123  2024-08-03  07:30:14  ES1K38AABAA001748                      KVH                  STS.BOFFA2                      Dropped from 38.101.194.20
+270  2024-08-04  03:30:16  ES1K38AABAA001748                      KVH                  STS.BOFFA2                          Added to 38.101.194.20
+293  2024-08-05  03:30:26  ES1K36AABAA001446                      KVH                     STS.FC2  IP changed from 38.101.194.21 to 38.101.194.20
+60   2024-08-01  03:30:17  ES1K37AABAA001648                      KVH                     STS.FC3                          Added to 38.101.194.20
+107  2024-08-02  22:30:11  ES1K37AABAA001659                      KVH                       Saron  IP changed from 38.101.194.22 to 38.101.194.20
+59   2024-08-01  03:30:17  ES1K41AABAA002051                      KVH              Saronic Spirit                          Added to 164.52.154.20
+118  2024-08-03  07:30:14  EF1K39AABAA000129                  Satlink                  Sea Breeze  IP changed from 38.101.194.21 to 38.101.194.20
+108  2024-08-02  22:30:11  EF1K39AABAA000129                  Satlink                  Sea Breeze                          Added to 38.101.194.21
+103  2024-08-02  14:30:32  EF1K39AABAA000129                  Satlink                  Sea Breeze                      Dropped from 38.101.194.20
+53   2024-07-31  22:30:16  ES1K45ADBAA002797                      KVH                Sharp Island                          Added to 38.101.194.21
+27   2024-07-31  07:30:16  ES1K45ADBAA002797          Clarus Networks                Sharp Island                      Dropped from 38.101.194.21
+76   2024-08-01  07:30:17  EF1K43ABBAA000312                      KVH             Soho Maru No 17                      Dropped from 164.52.154.20
+57   2024-08-01  03:30:17  EF1K43ABBAA000312                      KVH             Soho Maru No 17                          Added to 164.52.154.20
+292  2024-08-05  03:30:26  EF1K43ABBAA000312                      KVH             Soho Maru No 17                          Added to 164.52.154.21
+15   2024-07-31  05:25:30  ES1K25AAAAA000002          Clarus Networks              Starlink Setup                      Dropped from 164.52.154.20
+6    2024-07-31  05:19:53  ES1K25AAAAA000002          Clarus Networks              Starlink Setup                      Dropped from 164.52.154.20
+8    2024-07-31  05:19:53  ES1K42AABAA002252          Clarus Networks               Sulmara Trial                       Dropped from 188.65.37.66
+17   2024-07-31  05:25:30  ES1K42AABAA002252          Clarus Networks               Sulmara Trial                       Dropped from 188.65.37.66
+186  2024-08-03  14:32:35  ES1K3BAABAA001898          Clarus Networks                       Svend                       Dropped from 188.65.37.66
+255  2024-08-03  22:30:19  ES1K3BAABAA001898          Clarus Networks                       Svend                           Added to 188.65.37.66
+189  2024-08-03  14:32:35  ES1K38AABAA001754                      KVH                       Tania                       Dropped from 188.65.37.66
+258  2024-08-03  22:30:19  ES1K38AABAA001754                      KVH                       Tania                           Added to 188.65.37.66
+288  2024-08-04  22:30:12  ES1K35AABAA001302    Marine Data Solutions                 Tasty Waves                          Added to 38.101.194.20
+285  2024-08-04  14:30:18  ES1K35AABAA001302    Marine Data Solutions                 Tasty Waves                      Dropped from 38.101.194.20
+184  2024-08-03  14:32:35  ES1K36AABAA001404       Charity and Taylor             Viking Sentinel                       Dropped from 188.65.37.66
+253  2024-08-03  22:30:19  ES1K36AABAA001404       Charity and Taylor             Viking Sentinel                           Added to 188.65.37.66
+44   2024-07-31  14:30:17  ES1K36AABAA001404       Charity and Taylor             Viking Sentinel                           Added to 188.65.37.66
+281  2024-08-04  14:30:18  ES1K43ACBAA002352                      KVH                    West Bay                          Added to 38.101.194.20
+k4mobility@vmhost-1:~/ops/scanvoe$
